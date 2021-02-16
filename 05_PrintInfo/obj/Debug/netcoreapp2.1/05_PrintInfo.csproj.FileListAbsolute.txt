@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/obj/Debug/netcoreapp2.1/05_PrintInfo.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/obj/Debug/netcoreapp2.1/05_PrintInfo.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/obj/Debug/netcoreapp2.1/05_PrintInfo.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/obj/Debug/netcoreapp2.1/05_PrintInfo.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/bin/Debug/netcoreapp2.1/05_PrintInfo.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/bin/Debug/netcoreapp2.1/05_PrintInfo.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/bin/Debug/netcoreapp2.1/05_PrintInfo.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/bin/Debug/netcoreapp2.1/05_PrintInfo.dll
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/bin/Debug/netcoreapp2.1/05_PrintInfo.pdb
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/obj/Debug/netcoreapp2.1/05_PrintInfo.dll
+/Users/sergeyivanov/SergeyIvanovApps/05_PrintInfo/obj/Debug/netcoreapp2.1/05_PrintInfo.pdb
