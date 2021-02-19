@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/IMT/bin/Debug/netcoreapp2.1/IMT.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/IMT/bin/Debug/netcoreapp2.1/IMT.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/IMT/bin/Debug/netcoreapp2.1/IMT.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/IMT/bin/Debug/netcoreapp2.1/IMT.dll
+/Users/sergeyivanov/SergeyIvanovApps/IMT/bin/Debug/netcoreapp2.1/IMT.pdb
+/Users/sergeyivanov/SergeyIvanovApps/IMT/obj/Debug/netcoreapp2.1/IMT.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/IMT/obj/Debug/netcoreapp2.1/IMT.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/IMT/obj/Debug/netcoreapp2.1/IMT.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/IMT/obj/Debug/netcoreapp2.1/IMT.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/IMT/obj/Debug/netcoreapp2.1/IMT.dll
+/Users/sergeyivanov/SergeyIvanovApps/IMT/obj/Debug/netcoreapp2.1/IMT.pdb

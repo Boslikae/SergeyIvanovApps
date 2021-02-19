@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/bin/Debug/netcoreapp2.1/DistanceCount.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/bin/Debug/netcoreapp2.1/DistanceCount.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/bin/Debug/netcoreapp2.1/DistanceCount.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/bin/Debug/netcoreapp2.1/DistanceCount.dll
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/bin/Debug/netcoreapp2.1/DistanceCount.pdb
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/obj/Debug/netcoreapp2.1/DistanceCount.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/obj/Debug/netcoreapp2.1/DistanceCount.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/obj/Debug/netcoreapp2.1/DistanceCount.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/obj/Debug/netcoreapp2.1/DistanceCount.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/obj/Debug/netcoreapp2.1/DistanceCount.dll
+/Users/sergeyivanov/SergeyIvanovApps/DistanceCount/obj/Debug/netcoreapp2.1/DistanceCount.pdb

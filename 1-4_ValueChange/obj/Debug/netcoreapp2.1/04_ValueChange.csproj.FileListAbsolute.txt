@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/bin/Debug/netcoreapp2.1/04_ValueChange.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/bin/Debug/netcoreapp2.1/04_ValueChange.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/bin/Debug/netcoreapp2.1/04_ValueChange.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/bin/Debug/netcoreapp2.1/04_ValueChange.dll
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/bin/Debug/netcoreapp2.1/04_ValueChange.pdb
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/obj/Debug/netcoreapp2.1/04_ValueChange.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/obj/Debug/netcoreapp2.1/04_ValueChange.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/obj/Debug/netcoreapp2.1/04_ValueChange.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/obj/Debug/netcoreapp2.1/04_ValueChange.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/obj/Debug/netcoreapp2.1/04_ValueChange.dll
+/Users/sergeyivanov/SergeyIvanovApps/04_ValueChange/obj/Debug/netcoreapp2.1/04_ValueChange.pdb

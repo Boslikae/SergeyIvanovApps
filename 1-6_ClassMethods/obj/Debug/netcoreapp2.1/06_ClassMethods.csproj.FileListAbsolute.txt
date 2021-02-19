@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/bin/Debug/netcoreapp2.1/06_ClassMethods.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/bin/Debug/netcoreapp2.1/06_ClassMethods.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/bin/Debug/netcoreapp2.1/06_ClassMethods.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/bin/Debug/netcoreapp2.1/06_ClassMethods.dll
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/bin/Debug/netcoreapp2.1/06_ClassMethods.pdb
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/obj/Debug/netcoreapp2.1/06_ClassMethods.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/obj/Debug/netcoreapp2.1/06_ClassMethods.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/obj/Debug/netcoreapp2.1/06_ClassMethods.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/obj/Debug/netcoreapp2.1/06_ClassMethods.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/obj/Debug/netcoreapp2.1/06_ClassMethods.dll
+/Users/sergeyivanov/SergeyIvanovApps/06_ClassMethods/obj/Debug/netcoreapp2.1/06_ClassMethods.pdb
