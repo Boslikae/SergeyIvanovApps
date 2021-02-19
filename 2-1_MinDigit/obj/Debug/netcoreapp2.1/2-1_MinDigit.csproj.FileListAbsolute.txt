@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/bin/Debug/netcoreapp2.1/2-1_MinDigit.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/bin/Debug/netcoreapp2.1/2-1_MinDigit.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/bin/Debug/netcoreapp2.1/2-1_MinDigit.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/bin/Debug/netcoreapp2.1/2-1_MinDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/bin/Debug/netcoreapp2.1/2-1_MinDigit.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/obj/Debug/netcoreapp2.1/2-1_MinDigit.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/obj/Debug/netcoreapp2.1/2-1_MinDigit.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/obj/Debug/netcoreapp2.1/2-1_MinDigit.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/obj/Debug/netcoreapp2.1/2-1_MinDigit.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/obj/Debug/netcoreapp2.1/2-1_MinDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-1_MinDigit/obj/Debug/netcoreapp2.1/2-1_MinDigit.pdb

@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/bin/Debug/netcoreapp2.1/2-4_Login.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/bin/Debug/netcoreapp2.1/2-4_Login.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/bin/Debug/netcoreapp2.1/2-4_Login.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/bin/Debug/netcoreapp2.1/2-4_Login.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/bin/Debug/netcoreapp2.1/2-4_Login.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/obj/Debug/netcoreapp2.1/2-4_Login.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/obj/Debug/netcoreapp2.1/2-4_Login.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/obj/Debug/netcoreapp2.1/2-4_Login.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/obj/Debug/netcoreapp2.1/2-4_Login.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/obj/Debug/netcoreapp2.1/2-4_Login.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-4_Login/obj/Debug/netcoreapp2.1/2-4_Login.pdb

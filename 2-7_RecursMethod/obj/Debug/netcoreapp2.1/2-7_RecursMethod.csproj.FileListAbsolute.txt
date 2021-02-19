@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/bin/Debug/netcoreapp2.1/2-7_RecursMethod.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/bin/Debug/netcoreapp2.1/2-7_RecursMethod.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/bin/Debug/netcoreapp2.1/2-7_RecursMethod.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/bin/Debug/netcoreapp2.1/2-7_RecursMethod.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/bin/Debug/netcoreapp2.1/2-7_RecursMethod.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/obj/Debug/netcoreapp2.1/2-7_RecursMethod.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/obj/Debug/netcoreapp2.1/2-7_RecursMethod.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/obj/Debug/netcoreapp2.1/2-7_RecursMethod.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/obj/Debug/netcoreapp2.1/2-7_RecursMethod.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/obj/Debug/netcoreapp2.1/2-7_RecursMethod.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-7_RecursMethod/obj/Debug/netcoreapp2.1/2-7_RecursMethod.pdb
