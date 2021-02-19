@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/bin/Debug/netcoreapp2.1/2-3_SumDigit.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/bin/Debug/netcoreapp2.1/2-3_SumDigit.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/bin/Debug/netcoreapp2.1/2-3_SumDigit.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/bin/Debug/netcoreapp2.1/2-3_SumDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/bin/Debug/netcoreapp2.1/2-3_SumDigit.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/obj/Debug/netcoreapp2.1/2-3_SumDigit.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/obj/Debug/netcoreapp2.1/2-3_SumDigit.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/obj/Debug/netcoreapp2.1/2-3_SumDigit.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/obj/Debug/netcoreapp2.1/2-3_SumDigit.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/obj/Debug/netcoreapp2.1/2-3_SumDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-3_SumDigit/obj/Debug/netcoreapp2.1/2-3_SumDigit.pdb

@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/bin/Debug/netcoreapp2.1/2-6_GoodDigit.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/bin/Debug/netcoreapp2.1/2-6_GoodDigit.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/bin/Debug/netcoreapp2.1/2-6_GoodDigit.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/bin/Debug/netcoreapp2.1/2-6_GoodDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/bin/Debug/netcoreapp2.1/2-6_GoodDigit.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/obj/Debug/netcoreapp2.1/2-6_GoodDigit.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/obj/Debug/netcoreapp2.1/2-6_GoodDigit.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/obj/Debug/netcoreapp2.1/2-6_GoodDigit.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/obj/Debug/netcoreapp2.1/2-6_GoodDigit.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/obj/Debug/netcoreapp2.1/2-6_GoodDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-6_GoodDigit/obj/Debug/netcoreapp2.1/2-6_GoodDigit.pdb

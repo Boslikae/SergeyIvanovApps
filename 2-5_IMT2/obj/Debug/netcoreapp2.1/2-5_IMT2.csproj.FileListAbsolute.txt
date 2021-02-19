@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/bin/Debug/netcoreapp2.1/2-5_IMT2.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/bin/Debug/netcoreapp2.1/2-5_IMT2.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/bin/Debug/netcoreapp2.1/2-5_IMT2.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/bin/Debug/netcoreapp2.1/2-5_IMT2.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/bin/Debug/netcoreapp2.1/2-5_IMT2.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/obj/Debug/netcoreapp2.1/2-5_IMT2.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/obj/Debug/netcoreapp2.1/2-5_IMT2.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/obj/Debug/netcoreapp2.1/2-5_IMT2.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/obj/Debug/netcoreapp2.1/2-5_IMT2.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/obj/Debug/netcoreapp2.1/2-5_IMT2.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-5_IMT2/obj/Debug/netcoreapp2.1/2-5_IMT2.pdb

@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/obj/Debug/netcoreapp2.1/2-2_CountDigit.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/obj/Debug/netcoreapp2.1/2-2_CountDigit.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/obj/Debug/netcoreapp2.1/2-2_CountDigit.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/obj/Debug/netcoreapp2.1/2-2_CountDigit.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/bin/Debug/netcoreapp2.1/2-2_CountDigit.deps.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/bin/Debug/netcoreapp2.1/2-2_CountDigit.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/bin/Debug/netcoreapp2.1/2-2_CountDigit.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/bin/Debug/netcoreapp2.1/2-2_CountDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/bin/Debug/netcoreapp2.1/2-2_CountDigit.pdb
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/obj/Debug/netcoreapp2.1/2-2_CountDigit.dll
+/Users/sergeyivanov/SergeyIvanovApps/SergeyIvanovApps/2-2_CountDigit/obj/Debug/netcoreapp2.1/2-2_CountDigit.pdb
