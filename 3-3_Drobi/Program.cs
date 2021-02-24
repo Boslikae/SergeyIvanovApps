@@ -115,7 +115,7 @@ namespace _3_3_Drobi
             while(D!="0"){
             	Console.WriteLine("d1 = " + d1.Print());
             	Console.WriteLine("d2 = " + d2.Print());
-            	Console.WriteLine("выберите действие над комплексными числами (+, -, *, /, 0 - выход)");
+            	Console.WriteLine("выберите действие над дробными числами (+, -, *, /, 0 - выход)");
                 D = Console.ReadLine();
                 switch(D){
             	    case "+": res = d1 + d2; break;
