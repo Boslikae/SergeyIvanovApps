@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/bin/Debug/netcoreapp2.1/3-2_TryParse.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/bin/Debug/netcoreapp2.1/3-2_TryParse.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/bin/Debug/netcoreapp2.1/3-2_TryParse.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/bin/Debug/netcoreapp2.1/3-2_TryParse.dll
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/bin/Debug/netcoreapp2.1/3-2_TryParse.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/obj/Debug/netcoreapp2.1/3-2_TryParse.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/obj/Debug/netcoreapp2.1/3-2_TryParse.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/obj/Debug/netcoreapp2.1/3-2_TryParse.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/obj/Debug/netcoreapp2.1/3-2_TryParse.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/obj/Debug/netcoreapp2.1/3-2_TryParse.dll
+/Users/sergeyivanov/SergeyIvanovApps_/3-2_TryParse/obj/Debug/netcoreapp2.1/3-2_TryParse.pdb

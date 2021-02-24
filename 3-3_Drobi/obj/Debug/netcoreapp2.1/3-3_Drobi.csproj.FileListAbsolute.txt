@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/bin/Debug/netcoreapp2.1/3-3_Drobi.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/bin/Debug/netcoreapp2.1/3-3_Drobi.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/bin/Debug/netcoreapp2.1/3-3_Drobi.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/bin/Debug/netcoreapp2.1/3-3_Drobi.dll
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/bin/Debug/netcoreapp2.1/3-3_Drobi.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/obj/Debug/netcoreapp2.1/3-3_Drobi.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/obj/Debug/netcoreapp2.1/3-3_Drobi.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/obj/Debug/netcoreapp2.1/3-3_Drobi.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/obj/Debug/netcoreapp2.1/3-3_Drobi.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/obj/Debug/netcoreapp2.1/3-3_Drobi.dll
+/Users/sergeyivanov/SergeyIvanovApps_/3-3_Drobi/obj/Debug/netcoreapp2.1/3-3_Drobi.pdb
