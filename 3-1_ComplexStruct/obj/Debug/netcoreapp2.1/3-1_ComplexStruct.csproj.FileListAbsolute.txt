@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/bin/Debug/netcoreapp2.1/3-1_ComplexStruct.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/bin/Debug/netcoreapp2.1/3-1_ComplexStruct.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/bin/Debug/netcoreapp2.1/3-1_ComplexStruct.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/bin/Debug/netcoreapp2.1/3-1_ComplexStruct.dll
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/bin/Debug/netcoreapp2.1/3-1_ComplexStruct.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/obj/Debug/netcoreapp2.1/3-1_ComplexStruct.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/obj/Debug/netcoreapp2.1/3-1_ComplexStruct.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/obj/Debug/netcoreapp2.1/3-1_ComplexStruct.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/obj/Debug/netcoreapp2.1/3-1_ComplexStruct.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/obj/Debug/netcoreapp2.1/3-1_ComplexStruct.dll
+/Users/sergeyivanov/SergeyIvanovApps_/3-1_ComplexStruct/obj/Debug/netcoreapp2.1/3-1_ComplexStruct.pdb
