@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/obj/Debug/netcoreapp2.1/4-1_Massive.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/obj/Debug/netcoreapp2.1/4-1_Massive.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/obj/Debug/netcoreapp2.1/4-1_Massive.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/obj/Debug/netcoreapp2.1/4-1_Massive.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/bin/Debug/netcoreapp2.1/4-1_Massive.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/bin/Debug/netcoreapp2.1/4-1_Massive.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/bin/Debug/netcoreapp2.1/4-1_Massive.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/bin/Debug/netcoreapp2.1/4-1_Massive.dll
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/bin/Debug/netcoreapp2.1/4-1_Massive.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/obj/Debug/netcoreapp2.1/4-1_Massive.dll
+/Users/sergeyivanov/SergeyIvanovApps_/4-1_Massive/obj/Debug/netcoreapp2.1/4-1_Massive.pdb

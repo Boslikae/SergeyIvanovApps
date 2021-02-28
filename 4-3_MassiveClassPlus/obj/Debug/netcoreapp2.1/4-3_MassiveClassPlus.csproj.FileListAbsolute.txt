@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/obj/Debug/netcoreapp2.1/4-3_MassiveClassPlus.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/obj/Debug/netcoreapp2.1/4-3_MassiveClassPlus.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/obj/Debug/netcoreapp2.1/4-3_MassiveClassPlus.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/obj/Debug/netcoreapp2.1/4-3_MassiveClassPlus.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/bin/Debug/netcoreapp2.1/4-3_MassiveClassPlus.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/bin/Debug/netcoreapp2.1/4-3_MassiveClassPlus.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/bin/Debug/netcoreapp2.1/4-3_MassiveClassPlus.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/bin/Debug/netcoreapp2.1/4-3_MassiveClassPlus.dll
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/bin/Debug/netcoreapp2.1/4-3_MassiveClassPlus.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/obj/Debug/netcoreapp2.1/4-3_MassiveClassPlus.dll
+/Users/sergeyivanov/SergeyIvanovApps_/4-3_MassiveClassPlus/obj/Debug/netcoreapp2.1/4-3_MassiveClassPlus.pdb
