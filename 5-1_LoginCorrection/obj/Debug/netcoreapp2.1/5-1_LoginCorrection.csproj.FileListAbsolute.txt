@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/bin/Debug/netcoreapp2.1/5-1_LoginCorrection.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/bin/Debug/netcoreapp2.1/5-1_LoginCorrection.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/bin/Debug/netcoreapp2.1/5-1_LoginCorrection.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/bin/Debug/netcoreapp2.1/5-1_LoginCorrection.dll
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/bin/Debug/netcoreapp2.1/5-1_LoginCorrection.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/obj/Debug/netcoreapp2.1/5-1_LoginCorrection.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/obj/Debug/netcoreapp2.1/5-1_LoginCorrection.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/obj/Debug/netcoreapp2.1/5-1_LoginCorrection.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/obj/Debug/netcoreapp2.1/5-1_LoginCorrection.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/obj/Debug/netcoreapp2.1/5-1_LoginCorrection.dll
+/Users/sergeyivanov/SergeyIvanovApps_/5-1_LoginCorrection/obj/Debug/netcoreapp2.1/5-1_LoginCorrection.pdb
