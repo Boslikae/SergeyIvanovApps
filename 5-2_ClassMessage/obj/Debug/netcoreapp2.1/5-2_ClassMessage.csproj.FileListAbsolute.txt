@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/obj/Debug/netcoreapp2.1/5-2_ClassMessage.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/obj/Debug/netcoreapp2.1/5-2_ClassMessage.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/obj/Debug/netcoreapp2.1/5-2_ClassMessage.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/obj/Debug/netcoreapp2.1/5-2_ClassMessage.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/bin/Debug/netcoreapp2.1/5-2_ClassMessage.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/bin/Debug/netcoreapp2.1/5-2_ClassMessage.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/bin/Debug/netcoreapp2.1/5-2_ClassMessage.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/bin/Debug/netcoreapp2.1/5-2_ClassMessage.dll
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/bin/Debug/netcoreapp2.1/5-2_ClassMessage.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/obj/Debug/netcoreapp2.1/5-2_ClassMessage.dll
+/Users/sergeyivanov/SergeyIvanovApps_/5-2_ClassMessage/obj/Debug/netcoreapp2.1/5-2_ClassMessage.pdb

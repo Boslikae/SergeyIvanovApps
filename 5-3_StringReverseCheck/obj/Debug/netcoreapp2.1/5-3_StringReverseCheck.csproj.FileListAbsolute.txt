@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/bin/Debug/netcoreapp2.1/5-3_StringReverseCheck.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/bin/Debug/netcoreapp2.1/5-3_StringReverseCheck.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/bin/Debug/netcoreapp2.1/5-3_StringReverseCheck.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/bin/Debug/netcoreapp2.1/5-3_StringReverseCheck.dll
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/bin/Debug/netcoreapp2.1/5-3_StringReverseCheck.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/obj/Debug/netcoreapp2.1/5-3_StringReverseCheck.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/obj/Debug/netcoreapp2.1/5-3_StringReverseCheck.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/obj/Debug/netcoreapp2.1/5-3_StringReverseCheck.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/obj/Debug/netcoreapp2.1/5-3_StringReverseCheck.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/obj/Debug/netcoreapp2.1/5-3_StringReverseCheck.dll
+/Users/sergeyivanov/SergeyIvanovApps_/5-3_StringReverseCheck/obj/Debug/netcoreapp2.1/5-3_StringReverseCheck.pdb
