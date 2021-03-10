@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/bin/Debug/netcoreapp2.1/6-3_Collections.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/bin/Debug/netcoreapp2.1/6-3_Collections.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/bin/Debug/netcoreapp2.1/6-3_Collections.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/bin/Debug/netcoreapp2.1/6-3_Collections.dll
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/bin/Debug/netcoreapp2.1/6-3_Collections.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/obj/Debug/netcoreapp2.1/6-3_Collections.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/obj/Debug/netcoreapp2.1/6-3_Collections.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/obj/Debug/netcoreapp2.1/6-3_Collections.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/obj/Debug/netcoreapp2.1/6-3_Collections.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/obj/Debug/netcoreapp2.1/6-3_Collections.dll
+/Users/sergeyivanov/SergeyIvanovApps_/6-3_Collections/obj/Debug/netcoreapp2.1/6-3_Collections.pdb

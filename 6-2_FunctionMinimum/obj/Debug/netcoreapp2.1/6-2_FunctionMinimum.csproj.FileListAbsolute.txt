@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/obj/Debug/netcoreapp2.1/6-2_FunctionMinimum.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/obj/Debug/netcoreapp2.1/6-2_FunctionMinimum.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/obj/Debug/netcoreapp2.1/6-2_FunctionMinimum.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/obj/Debug/netcoreapp2.1/6-2_FunctionMinimum.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/bin/Debug/netcoreapp2.1/6-2_FunctionMinimum.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/bin/Debug/netcoreapp2.1/6-2_FunctionMinimum.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/bin/Debug/netcoreapp2.1/6-2_FunctionMinimum.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/bin/Debug/netcoreapp2.1/6-2_FunctionMinimum.dll
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/bin/Debug/netcoreapp2.1/6-2_FunctionMinimum.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/obj/Debug/netcoreapp2.1/6-2_FunctionMinimum.dll
+/Users/sergeyivanov/SergeyIvanovApps_/6-2_FunctionMinimum/obj/Debug/netcoreapp2.1/6-2_FunctionMinimum.pdb
