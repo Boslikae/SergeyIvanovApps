@@ -37,18 +37,27 @@ namespace WindowsFormsApp1
             set => lblCount.Text = value;
         }
 
+        protected void Victory()
+        {
+            string x = lblNumber.Text;
+            string X = lblTask.Text;
+            if(x == X) label3.Visible = true;
+        }
+
         public string Result { set => lblNumber.Text = value; }
 
         private void btnCommand1_Click(object sender, EventArgs e)
         {
             presenter.Sum();
             presenter.Counter();
+            Victory();
         }
 
         private void btnCommand2_Click(object sender, EventArgs e)
         {
             presenter.Mult();
             presenter.Counter();
+            Victory();
         }
 
         private void btnReset_Click(object sender, EventArgs e)
