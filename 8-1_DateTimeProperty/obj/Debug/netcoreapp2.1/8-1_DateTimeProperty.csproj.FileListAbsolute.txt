@@ -1,0 +1,11 @@
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/bin/Debug/netcoreapp2.1/8-1_DateTimeProperty.deps.json
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/bin/Debug/netcoreapp2.1/8-1_DateTimeProperty.runtimeconfig.json
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/bin/Debug/netcoreapp2.1/8-1_DateTimeProperty.runtimeconfig.dev.json
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/bin/Debug/netcoreapp2.1/8-1_DateTimeProperty.dll
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/bin/Debug/netcoreapp2.1/8-1_DateTimeProperty.pdb
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/obj/Debug/netcoreapp2.1/8-1_DateTimeProperty.csprojAssemblyReference.cache
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/obj/Debug/netcoreapp2.1/8-1_DateTimeProperty.csproj.CoreCompileInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/obj/Debug/netcoreapp2.1/8-1_DateTimeProperty.AssemblyInfoInputs.cache
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/obj/Debug/netcoreapp2.1/8-1_DateTimeProperty.AssemblyInfo.cs
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/obj/Debug/netcoreapp2.1/8-1_DateTimeProperty.dll
+/Users/sergeyivanov/SergeyIvanovApps_/8-1_DateTimeProperty/obj/Debug/netcoreapp2.1/8-1_DateTimeProperty.pdb
